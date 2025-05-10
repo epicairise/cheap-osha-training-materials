@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "360training OSHA Outreach",
+    "slug": "360training-osha-outreach",
+    "description": "OSHA-authorized online training at unbeatable prices for construction and general industry.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/360training-osha10-ppe.jpg",
+    "target_audience_match": "Perfect for small business owners and individual workers who need legit OSHA certification without spending a fortune.",
+    "price": "From $54",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "OSHA Education Center",
+    "slug": "osha-education-center",
+    "description": "Comprehensive and affordable OSHA-authorized training with fast certificate delivery.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/osha-education-center.jpg",
+    "target_audience_match": "Great fit for budget-conscious HR teams trying to keep everyone certified without delay or overpaying.",
+    "price": "From $59",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "ClickSafety",
+    "slug": "clicksafety",
+    "description": "Trusted safety training with frequent discounts on OSHA 10 and 30-hour courses.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/clicksafety-osha10.jpg",
+    "target_audience_match": "Ideal for solo contractors and small crews who want simple, mobile-friendly OSHA training that fits the budget.",
+    "price": "From $57",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "National Safety Council (NSC) Training",
+    "slug": "nsc-training",
+    "description": "Non-profit OSHA-aligned materials at low cost, including free safety resources.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-osha-kit.jpg",
+    "target_audience_match": "Best for workplaces that want nonprofit credibility and are searching for free or low-cost OSHA-aligned tools.",
+    "price": "Free resources available",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Hard Hat Training",
+    "slug": "hard-hat-training",
+    "description": "Pay-once downloadable OSHA-aligned kits for on-site or virtual group training.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hard-hat-training.jpg",
+    "target_audience_match": "Perfect for safety officers or foremen looking to train multiple employees with no subscriptions or recurring costs.",
+    "price": "From $99 per kit",
+    "data-link": "pending"
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "name": "Affordable OSHA Training Materials for Workplace Safety",
+      "url": "https://dir.querygap.com/cheap-osha-training-materials/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "360training OSHA Outreach",
+          "url": "https://dir.querygap.com/cheap-osha-training-materials/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/360training-osha10-ppe.jpg",
+          "description": "OSHA-authorized online training at unbeatable prices for construction and general industry.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "OSHA Education Center",
+          "url": "https://dir.querygap.com/cheap-osha-training-materials/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/osha-education-center.jpg",
+          "description": "Comprehensive and affordable OSHA-authorized training with fast certificate delivery.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "ClickSafety",
+          "url": "https://dir.querygap.com/cheap-osha-training-materials/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/clicksafety-osha10.jpg",
+          "description": "Trusted safety training with frequent discounts on OSHA 10 and 30-hour courses.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "National Safety Council (NSC) Training",
+          "url": "https://dir.querygap.com/cheap-osha-training-materials/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-osha-kit.jpg",
+          "description": "Non-profit OSHA-aligned materials at low cost, including free safety resources.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hard Hat Training",
+          "url": "https://dir.querygap.com/cheap-osha-training-materials/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hard-hat-training.jpg",
+          "description": "Pay-once downloadable OSHA-aligned kits for on-site or virtual group training.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are low-cost OSHA training programs still legitimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes \u2014 many OSHA-authorized providers offer discounted pricing without compromising on certification validity or content quality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use one training kit for multiple employees?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes \u2014 downloadable training kits from providers like Hard Hat Training can be reused indefinitely for multiple sessions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there free OSHA training material available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Some nonprofits like the National Safety Council offer free toolkits and basic safety resources, though official certifications typically require paid courses."
+          }
+        }
+      ]
+    }
+  ]
+}
